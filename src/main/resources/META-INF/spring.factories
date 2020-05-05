@@ -1,0 +1,4 @@
+#启动时要加载的自动配置类
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.autoconfigure1.HelloAutoConfiguration,\
+com.autoconfigure2.AutoConfiguration
